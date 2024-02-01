@@ -1,0 +1,26 @@
+.fw-bold:hover{
+  background-color: white;
+
+}
+.home{
+  background-color: white;
+}
+.fw-bold .dpd:hover{
+  background-color: black;
+  color: white;
+}
+.d-block .d-block .img{
+  background-color: black;
+}
+
+
+
+/*@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+*/
